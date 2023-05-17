@@ -7,8 +7,8 @@
  */
 
 // constants won't change
-const int TRIG_PIN = 6; // Arduino pin connected to Ultrasonic Sensor's TRIG pin
-const int ECHO_PIN = 7; // Arduino pin connected to Ultrasonic Sensor's ECHO pin
+const int TRIG_PIN = 7; // Arduino pin connected to Ultrasonic Sensor's TRIG pin
+const int ECHO_PIN = 6; // Arduino pin connected to Ultrasonic Sensor's ECHO pin
 const int LED_PIN  = 3; // Arduino pin connected to LED's pin
 const int DISTANCE_THRESHOLD =200; // centimeters
 
